@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LeftPole
+  - RightPole
+  - LeftStopPoint
+  - RightStopPoint
+  - CenterStopPoint
+  - Obstacle
+  - ObstacleManager
+  - UI
+  - LeftArrow
+  - RightArrow
+  - Score
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Obstacles
+    uniqueID: 4292757339
+    locked: 0
+  - name: Player
+    uniqueID: 1503684535
+    locked: 0
+  - name: UI
+    uniqueID: 1403644451
+    locked: 0
+  - name: VisualFeedback
+    uniqueID: 2444569897
+    locked: 0
